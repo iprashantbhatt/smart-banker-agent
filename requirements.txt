@@ -1,0 +1,4 @@
+openai
+duckduckgo-search
+python-dotenv
+colorama

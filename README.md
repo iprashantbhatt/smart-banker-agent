@@ -58,9 +58,8 @@ Calls Calculator -> Computes compound interest on 50L @ 8.5%.
 Final Answer -> "The current rate is 8.50%. The total interest payable would be..."
 
 👨‍💻 Author
-Prashant Bhatt Banker | Tech Enthusiast | AI Explorer
+Prashant Bhatt  | Banker | Tech Enthusiast | AI Explorer
 
-LinkedIn | GitHub
 
 
 ---
